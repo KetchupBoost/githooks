@@ -3,7 +3,7 @@
 
 def function(right, left):
     """some docstring"""
-    return right + left
+    return right + left + 1
 
 
 for i in range(5):
